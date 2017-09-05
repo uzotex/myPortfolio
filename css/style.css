@@ -1,0 +1,35 @@
+.bg-image{
+  background-image: url(https://github.com/uzotex/FCC/blob/master/bgImage.png?raw=true);
+    font-family: "Times New Roman", Georgia, Serif;
+}
+.nav{
+  font-size: 20px;
+  position:fixed;
+  width:1070px;
+}
+.bg-text{
+  color: #ffffff;
+  font-size: 20px;
+  padding-top: 170px;
+}
+.contact-bgimage{
+  background-image: url(https://github.com/uzotex/FCC/blob/master/Contact-us-background.jpg?raw=true);
+}
+.img-responsive{
+  display:inline;
+  margin: 4px;
+}
+.img-thumbnail{
+  width:490px;
+    height:330px;
+}
+
+
+  
+ 
+  
+  
+ 
+   
+  
+ 
